@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nextview Developments]]></title>
+        <description><![CDATA[Nextview Developments]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 02:00:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Nextview Developments with another custom house build</p>]]></description>
+            <link>undefined5c918f75-7115-4fe4-8b51-7d289265e18d/index.html</link>
+            <guid isPermaLink="false">5c918f75-7115-4fe4-8b51-7d289265e18d</guid>
+            <pubDate>Thu, 28 Jan 2016 02:00:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
